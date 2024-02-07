@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import {FaBars,FaTimes,FaGithub,FaLinkedin, FaFacebook} from "react-icons/fa"
 import {HiOutlineMail} from 'react-icons/hi'
 import { BsFillPersonLinesFill} from "react-icons/bs"
-import logo from '../assets/logo1.png'
+import logo from '../assets/logo.png'
 const Navbar = () => {
     const [nav,setNav] = useState(true);
     const handleClick= ()=>{
