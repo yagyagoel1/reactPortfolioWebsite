@@ -14,7 +14,7 @@ const Home = () => {
           focused on building responsive full-stack application
         </p>
         <div>
-        <button class=" text-white group font-semibold text-lg flex items-center rounded-2xl px-2 py-3 bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300 ...">
+        <button className=" text-white group font-semibold text-lg flex items-center rounded-2xl px-2 py-3 bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300 ...">
   View More  <div className='group-hover:rotate-90 duration-300  px-2 items-center pt-1 text-bold'><HiArrowNarrowRight /></div>
 </button>
         </div>

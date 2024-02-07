@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
     return (
         <div name="about" className='w-full h-screen bg-[#0a192f] text-gray-300 '>
-            <div className='flex-col justify-center items-center w-full h-full px-10'>
+            <div className='flex-col justify-center items-center w-full h-full lg:px-10'>
                 <div className='max-w-[100px] w-full px-4 grid grid-cols-2 gap-8'>
                     <div className='sm:text-right pb-8 sm:pl-8'>
                         <p className='text-4xl font-bold inline border-b-4 border-pink-600'>
@@ -12,8 +12,8 @@ const About = () => {
                     </div>
                     <div></div>
                 </div>
-                <div className='max-w-[1000px] w-full grid sm:grid-cols-2  gap-8'>
-                    <div  className='text-3xl sm:text-right  font-bold '>
+                <div className=' max-w-[1000px] w-full grid sm:grid-cols-2  gap-8'>
+                    <div  className=' text-3xl sm:text-right  font-bold '>
                         <p>Hi, I'm Yagya ,nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
