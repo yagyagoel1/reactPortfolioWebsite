@@ -19,7 +19,7 @@ const Skills = () => {
                     <p className='text-4xl  text-gray-300 border-b-4 inline border-pink-500  pb-2 pt-4'>
                         Experience
                     </p>
-                    <p className='py-5 text-md font-semibold'>These are the technologies I've worked with</p>
+                    <p className='py-5 text-lg font-semibold'>These are the technologies I've worked with</p>
                 </div>
                 <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
