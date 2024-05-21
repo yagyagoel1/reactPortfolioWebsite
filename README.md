@@ -1,5 +1,5 @@
 # reactPortfolioWebsite
-in this project i willl create my out portfolio website this is my first real time project working with react 
+in this project i willl create my out portfolio websitet 
 
 content
 
